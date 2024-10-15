@@ -1,0 +1,451 @@
+4:I[7490,["231","static/chunks/231-44311d16d70518ea.js","4909","static/chunks/4909-568626adeb53e70c.js","2547","static/chunks/2547-2e102d05b3af461b.js","2706","static/chunks/2706-9aee3f5b07379665.js","4312","static/chunks/4312-25b9b93d63d1a8db.js","9277","static/chunks/9277-0f3d6e1c820b1b83.js","8130","static/chunks/8130-ea240c7b872a3183.js","5062","static/chunks/5062-b63c16498d732923.js","9926","static/chunks/app/(public)/project/%5Bslug%5D/loading-71c4a2aea4eceefb.js"],"default"]
+5:I[39275,[],""]
+6:I[61343,[],""]
+0:["zKqyItHbJ1uC5PFM9Uhi5",[[["",{"children":["(public)",{"children":["project",{"children":[["slug","admin","d"],{"children":["__PAGE__?{\"slug\":\"admin\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":["(public)",{"children":["project",{"children":[["slug","admin","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$L3",null],[["$undefined",["$","main",null,{"id":"$undefined","className":"mx-auto px-6 pb-16 mt-8 mb-16 max-w-screen-xl","role":"$undefined","children":["$","div",null,{"className":"lg:grid grid-cols-6 mt-8","children":[["$","div",null,{"className":"col-span-4 lg:pr-8","children":["$","div",null,{"className":"gap-y-8 flex flex-col mb-8","children":["$","div",null,{"className":"flex flex-col gap-y-4","children":[["$","div",null,{"className":"h-[420px] w-full bg-gray-200/50 animate-pulse"}],["$","div",null,{"className":"h-12 w-1/2 bg-gray-200/50 animate-pulse"}],["$","div",null,{"className":"flex flex-col gap-y-2","children":[["$","div",null,{"className":"animate-pulse w-5/6 h-4 bg-gray-200/50"}],["$","div",null,{"className":"animate-pulse w-3/4 h-4 bg-gray-200/50"}],["$","div",null,{"className":"animate-pulse w-1/4 h-4 bg-gray-200/50"}]]}]]}]}]}],["$","div",null,{"className":"col-span-2","children":["$","div",null,{"className":"fixed lg:sticky lg:top-[25px] bg-white bottom-0 left-0 right-0","children":["$","div",null,{"className":"bg-i-beige/50 flex flex-col gap-y-6 shadow-[0px_0px_10px_rgba(0,0,0,0.1)] md:shadow","children":[["$","div",null,{"className":"mx-6 pt-4 flex flex-col gap-0 lg:gap-4","children":[["$","div",null,{"className":"lg:border-b border-gray-300 pb-4 flex flex-col gap-4","children":[["$","div",null,{"className":"hidden lg:block","children":[["$","p",null,{"className":"font-semibold font-lato text-lg lg:text-xl","children":"$$0.00"}],["$","p",null,{"className":"text-gray-500 text-base font-lato","children":"Raised so far"}]]}],["$","div",null,{"children":["$","div",null,{"children":[["$","div",null,{"className":"bg-white h-[14px] lg:h-[20px] relative overflow-hidden w-full","style":{"height":"$undefined","backgroundColor":"$undefined","borderRadius":"$undefined"},"children":["$","div",null,{"className":"h-full absolute left-0 top-0 bg-[#9bc95b]","style":{"width":"0%"}}]}],["$","div",null,{"id":"$undefined","className":"flex flex-row justify-between pt-1","role":"$undefined","children":["$undefined",["$","p",null,{"className":"text-right font-lato","children":[false,[["$","span",null,{"className":"font-semibold font-barlow","children":"$$1,000.00"}],["$","span",null,{"className":"text-gray-500 font-barlow","children":" still needed of "}]],["$","span",null,{"className":"text-gray-500 font-barlow","children":"$$1,000.00"}]]}]]}]]}]}]]}],["$","div",null,{"className":"flex flex-col gap-y-2 grow pb-4 lg:pb-0","children":[false,["$","p",null,{"className":"text-center text-gray-500 font-lato hidden lg:block","children":["Ends"," ","October 15th, 2024"]}]]}]]}],["$","div",null,{"className":"hidden lg:flex flex-col gap-y-3 px-6 pt-4 pb-4 border-t border-gray-300","children":["$","$L4",null,{"title":"","text":"","url":"https://ioby.org/project/"}]}]]}]}]}]]}]}]],[],[]]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","(public)","children","project","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$L7",null],null]},["$L8",null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5b53df5535af370c.css","precedence":"next","crossOrigin":"anonymous"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9b18a686a1730bfa.css","precedence":"next","crossOrigin":"anonymous"}]],[null,"$L9"]]]]]
+a:I[3762,["231","static/chunks/231-44311d16d70518ea.js","4909","static/chunks/4909-568626adeb53e70c.js","2547","static/chunks/2547-2e102d05b3af461b.js","4312","static/chunks/4312-25b9b93d63d1a8db.js","9277","static/chunks/9277-0f3d6e1c820b1b83.js","6985","static/chunks/6985-f78f1df8bf6a7378.js","8130","static/chunks/8130-ea240c7b872a3183.js","1799","static/chunks/1799-772da814296d7bf2.js","7601","static/chunks/app/error-63d1f3b59613cece.js"],"default"]
+b:I[80787,["231","static/chunks/231-44311d16d70518ea.js","4909","static/chunks/4909-568626adeb53e70c.js","2547","static/chunks/2547-2e102d05b3af461b.js","4312","static/chunks/4312-25b9b93d63d1a8db.js","9277","static/chunks/9277-0f3d6e1c820b1b83.js","8173","static/chunks/8173-634db10cb35f3881.js","6985","static/chunks/6985-f78f1df8bf6a7378.js","9418","static/chunks/9418-62a8b003223d6062.js","8130","static/chunks/8130-ea240c7b872a3183.js","1799","static/chunks/1799-772da814296d7bf2.js","9160","static/chunks/app/not-found-7550ebe6dfe9480f.js"],"default"]
+c:"$Sreact.suspense"
+d:I[49554,["231","static/chunks/231-44311d16d70518ea.js","6985","static/chunks/6985-f78f1df8bf6a7378.js","4512","static/chunks/4512-eb21c4114afdb485.js","8288","static/chunks/app/(public)/layout-efda745ef6898363.js"],"default"]
+e:I[38173,["231","static/chunks/231-44311d16d70518ea.js","8173","static/chunks/8173-634db10cb35f3881.js","812","static/chunks/app/(public)/not-found-44387914ad4d06ce.js"],"Image"]
+f:I[231,["231","static/chunks/231-44311d16d70518ea.js","4909","static/chunks/4909-568626adeb53e70c.js","2547","static/chunks/2547-2e102d05b3af461b.js","2706","static/chunks/2706-9aee3f5b07379665.js","4312","static/chunks/4312-25b9b93d63d1a8db.js","9277","static/chunks/9277-0f3d6e1c820b1b83.js","8130","static/chunks/8130-ea240c7b872a3183.js","5062","static/chunks/5062-b63c16498d732923.js","9926","static/chunks/app/(public)/project/%5Bslug%5D/loading-71c4a2aea4eceefb.js"],""]
+8:["$","html",null,{"lang":"en","className":"bg-white __variable_5f06f5 __variable_af18b4","children":["$","body",null,{"className":"min-h-full","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$a","errorStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92813e217dadfabc.css","precedence":"next","crossOrigin":"anonymous"}]],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$Lb",null,{}],"notFoundStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92813e217dadfabc.css","precedence":"next","crossOrigin":"anonymous"}]],"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/92813e217dadfabc.css","precedence":"next","crossOrigin":"anonymous"}]]}]}]}]
+7:[["$","$c",null,{"children":["$","$Ld",null,{"banner":{"id":1,"status":"published","user_created":"fc361a61-665d-4fac-b74c-24c5ec456d42","date_created":"2024-10-15T13:18:06.164+00:00","user_updated":null,"date_updated":null,"url":"https://www.ioby.org/resources/closing","text":"ioby has closed its doors. Read more here."}}]}],["$","main",null,{"id":"main-content","className":"inline","children":["$","div",null,{"className":"min-h-screen","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","(public)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"id":"$undefined","className":"w-full pt-8 pb-24 px-4 max-w-lg mx-auto","role":"$undefined","children":[["$","div",null,{"id":"$undefined","className":"flex flex-col gap-y-2","role":"$undefined","children":[["$","h1",null,{"id":"$undefined","className":"text-4xl md:text-5xl font-semibold font-barlow","children":"404"}],["$","p",null,{"className":"text-2xl font-lato","children":"Page not found"}]]}],["$","$Le",null,{"className":"mt-4 rounded","src":"/images/deborah-cox.gif","height":"453","width":"600","alt":"Gif of Deborah Cox singing the hook for her 1998 classic song title Nobody's Supposed to Be Here"}],["$","h2",null,{"id":"$undefined","className":"font-barlow text-2xl font-bold mt-4 mt-4","children":"Try one of these pages instead:"}],["$","ul",null,{"className":"list-disc space-y-2 mt-4 ml-6","children":[["$","li","/about",{"children":["$","$Lf",null,{"className":"text-i-orange font-semibold","href":"/about","children":"Learn about us"}]}],["$","li","/project",{"children":["$","$Lf",null,{"className":"text-i-orange font-semibold","href":"/project","children":"Find a project to support"}]}],["$","li","/how-it-works",{"children":["$","$Lf",null,{"className":"text-i-orange font-semibold","href":"/how-it-works","children":"See how it worked"}]}],["$","li","/match",{"children":["$","$Lf",null,{"className":"text-i-orange font-semibold","href":"/match","children":"Learn about match programs"}]}],["$","li","/resources",{"children":["$","$Lf",null,{"className":"text-i-orange font-semibold","href":"/resources","children":"Check out our resources"}]}]]}]]}],"notFoundStyles":[],"styles":null}]}]}],["$","$c",null,{"children":["$","footer",null,{"className":"SiteFooter_footer__KMpMa","children":["$","div",null,{"className":"SiteFooter_footer_wrapper__aiTZ_","children":[["$","div",null,{"className":"SiteFooter_quote_mark__AwRCA","children":["$","div",null,{"className":"Image_wrapper__xH_3J","style":{"width":"100%","height":"100%","overflow":"hidden"},"children":["$","img",null,{"className":"object-cover","src":"/images/footer-quotes.svg","alt":"Stylized orange quotation mark","width":"$undefined","height":"$undefined","style":{"position":"absolute","width":"100%","height":"100%","inset":"0px"}}]}]}],["$","div",null,{"className":"SiteFooter_block_quote__pn3EB border-orange-400","children":["$","p",null,{"className":"text-2xl leading-relaxed font-light font-lato italic","children":"“What ioby offered was a way to generate excitement around a campaign of raising money... It was like an event in itself, but we didn't have to have a typical event. It was about raising awareness as much as raising the money, and have an excuse to bug people and remind them that you exist and get your name in front of them.”"}]}],["$","div",null,{"className":"SiteFooter_bottom_section__8y4Pg","children":[["$","div",null,{"className":"SiteFooter_bottom_left__WLnCm","children":["$","svg",null,{"width":"80","height":"44","xmlns":"http://www.w3.org/2000/svg","children":["$","g",null,{"fill":"#E88124","fillRule":"evenodd","children":["$","path",null,{"d":"M22.263 11.632a11.604 11.604 0 0 0-1.301 0 11.251 11.251 0 0 0-7.182 3.14l7.823 7.828c.094.094.113.229.042.299-.07.07-.198.046-.285-.055 0 0-3.257-3.794-9.08-6.295a11.24 11.24 0 0 0-1.957 6.355c0 6.234 5.055 11.29 11.29 11.29 6.236 0 11.29-5.056 11.29-11.29 0-6.019-4.707-10.935-10.64-11.272M72.603 11.613v10.856c0 .13-.082.238-.181.238-.1 0-.174-.107-.164-.237 0 0 .378-4.98-1.961-10.857H57.419v11.125c0 5.084 3.462 9.372 8.19 10.7l-4.401 5.972 5.896 4.461 10.714-14.547A10.958 10.958 0 0 0 80 22.75V11.613h-7.397zM45.488 11.55H43.21c-2.34 5.987-1.963 11.06-1.963 11.06.01.132-.063.24-.163.24s-.18-.108-.18-.241V.645h-7.355v33.527l11.29.022c6.236 0 11.291-5.074 11.291-11.332 0-6.04-4.708-10.975-10.64-11.313M10.968 5.162C10.968 2.31 8.513 0 5.484 0S0 2.311 0 5.162c0 2.85 2.455 5.16 5.484 5.16.614 0 1.205-.096 1.756-.271A5.557 5.557 0 0 0 9.206 8.95c1.083-.943 1.762-2.29 1.762-3.788M1.29 34.194h7.097V11.613H1.29z"}]}]}]}],["$","div",null,{"className":"SiteFooter_bottom_right__BGKf9","children":[["$","div",null,{"className":"SiteFooter_link_column__9_8Nx","children":[["$","h4",null,{"id":"$undefined","className":"font-barlow text-lg font-bold","children":"Learn more"}],["$","$Lf",null,{"scroll":true,"href":"/about","onClick":"$undefined","target":"","className":"text-base font-lato","prefetch":"$undefined","children":"About"}],["$","$Lf",null,{"scroll":true,"href":"/about/reports","onClick":"$undefined","target":"","className":"text-base font-lato","prefetch":"$undefined","children":"Reports"}]]}],["$","div",null,{"className":"SiteFooter_link_column__9_8Nx","children":[["$","h4",null,{"id":"$undefined","className":"font-barlow text-lg font-bold","children":"Get involved"}],["$","$Lf",null,{"scroll":true,"href":"/project","onClick":"$undefined","target":"","className":"text-base font-lato","prefetch":"$undefined","children":"Find a project"}]]}]]}]]}],["$","div",null,{"className":"SiteFooter_rights__jeCJ5","children":[["$","div",null,{"className":"SiteFooter_copyright__asJXu","children":[["$","p",null,{"className":"text-gray-500 font-lato","children":"Copyright © 2024 ioby, a 501(c)(3) nonprofit"}],["$","$Lf",null,{"scroll":true,"href":"/about/privacy","onClick":"$undefined","target":"","className":"text-gray-500 font-lato","prefetch":"$undefined","children":"Privacy"}],["$","$Lf",null,{"scroll":true,"href":"/about/transparency#tax","onClick":"$undefined","target":"","className":"text-gray-500 font-lato","prefetch":"$undefined","children":"Tax Information"}],["$","$Lf",null,{"scroll":true,"href":"/about/terms","onClick":"$undefined","target":"","className":"text-gray-500 font-lato","prefetch":"$undefined","children":"Terms & Conditions"}]]}],["$","div",null,{"className":"SiteFooter_socials__X4dQe","children":"$L10"}]]}]]}]}]}]]
+11:T9b8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 26" height="26px" width="32px"><desc>Created with Sketch.</desc><defs></defs><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="R3"><g fill="#3DA9E0" transform="translate(-971.000000, -7382.000000)" id="ROUND-3—no-cart,-one-promo-Copy"><g transform="translate(0.000000, 6840.000000)" id="Footer"><g id="Group-6"><g transform="translate(179.000000, 0.000000)" id="Group-3"><g transform="translate(670.000000, 539.000000)" id="Group"><path id="Page-1" d="M154,6.04000241 C153.093061,7.34667498 151.996626,8.45999525 150.710661,9.37999904 C150.724197,9.56666719 150.730964,9.84666718 150.730964,10.219999 C150.730964,11.9533423 150.473776,13.6833255 149.95939,15.4100026 C149.445009,17.1366751 148.663287,18.7933253 147.614212,20.3800023 C146.565142,21.9666749 145.316422,23.3699945 143.868022,24.5900001 C142.419623,25.8100062 140.673446,26.7833296 138.629442,27.5099999 C136.585439,28.2366703 134.399335,28.6 132.071068,28.6 C128.402689,28.6 125.045701,27.6333428 122,25.7000003 C122.473776,25.7533338 123.001689,25.7800001 123.583756,25.7800001 C126.629455,25.7800001 129.343475,24.8600093 131.725889,23.019999 C130.30456,22.993334 129.032154,22.5633392 127.908629,21.730001 C126.785104,20.8966628 126.013538,19.8333393 125.593909,18.5399992 C126.040611,18.6066661 126.453467,18.6400018 126.832488,18.6400018 C127.414556,18.6400018 127.989847,18.5666687 128.558375,18.4200024 C127.042293,18.113333 125.786807,17.370007 124.791878,16.1900019 C123.796949,15.0099968 123.299493,13.6400084 123.299493,12.0800008 L123.299493,12.0000015 C124.219971,12.5066715 125.208117,12.7800008 126.26396,12.8200027 C125.370554,12.2333333 124.659901,11.4666709 124.13198,10.5200022 C123.604058,9.57332895 123.340102,8.54667428 123.340102,7.44000234 C123.340102,6.26666352 123.637899,5.18000821 124.233502,4.18000058 C125.871413,6.16667888 127.864625,7.75666216 130.2132,8.9499997 C132.561771,10.1433417 135.076129,10.8066684 137.756347,10.9400022 C137.648054,10.4333321 137.593907,9.94000349 137.593907,9.46000288 C137.593907,7.67332521 138.233497,6.1500088 139.512689,4.88999991 C140.791886,3.62999549 142.3384,3 144.152286,3 C146.047386,3 147.644663,3.67999229 148.944163,5.03999926 C150.419638,4.75999927 151.807101,4.2400057 153.106602,3.48000062 C152.605751,5.01334326 151.64468,6.19999664 150.223351,7.04000108 C151.48224,6.90666732 152.741111,6.57333742 154,6.04000241 Z"></path></g></g></g></g></g></g></svg>12:T6b4,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 30 30" height="30px" width="30px"><desc>Created with Sketch.</desc><defs></defs><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="R3"><g fill="#3DA9E0" transform="translate(-1024.000000, -7380.000000)" id="ROUND-3—no-cart,-one-promo-Copy"><g transform="translate(0.000000, 6840.000000)" id="Footer"><g id="Group-6"><g transform="translate(179.000000, 0.000000)" id="Group-3"><g transform="translate(670.000000, 539.000000)" id="Group"><path id="Page-1" d="M203.339845,1 C203.795576,1 204.186198,1.16275875 204.511719,1.48828061 C204.837241,1.81380248 205,2.20442435 205,2.66015497 L205,29.3398437 C205,29.7955752 204.837241,30.1861962 204.511719,30.5117189 C204.186198,30.8372412 203.795576,31 203.339845,31 L195.703125,31 L195.703125,19.3789065 L199.589844,19.3789065 L200.175779,14.8476578 L195.703125,14.8476578 L195.703125,11.9570298 C195.703125,11.2278617 195.856119,10.680991 196.162111,10.3164048 C196.468098,9.95182294 197.063798,9.76952982 197.94922,9.76952982 L200.332033,9.74999982 L200.332033,5.70703178 C199.511716,5.58984303 198.35287,5.53124866 196.85547,5.53124866 C195.084627,5.53124866 193.668623,6.05207927 192.607423,7.09374925 C191.546219,8.1354236 191.015623,9.60676232 191.015623,11.5078135 L191.015623,14.8476578 L187.109374,14.8476578 L187.109374,19.3789065 L191.015623,19.3789065 L191.015623,31 L176.660156,31 C176.204425,31 175.813804,30.8372412 175.488281,30.5117189 C175.162759,30.1861962 175,29.7955752 175,29.3398437 L175,2.66015497 C175,2.20442435 175.162759,1.81380248 175.488281,1.48828061 C175.813804,1.16275875 176.204425,1 176.660156,1 L203.339845,1 Z"></path></g></g></g></g></g></g></svg>13:T1210,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32" height="32px" width="32px"><desc>Created with Sketch.</desc><defs></defs><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="R3"><g fill-rule="nonzero" fill="#3DA9E0" transform="translate(-1129.000000, -7379.000000)" id="ROUND-3—no-cart,-one-promo-Copy"><g transform="translate(0.000000, 6840.000000)" id="Footer"><g id="Group-6"><g transform="translate(179.000000, 0.000000)" id="Group-3"><g transform="translate(670.000000, 539.000000)" id="Group"><path id="Shape" d="M290.667991,15.9999448 C290.667991,13.0545307 293.055183,10.6662437 296.000662,10.6662437 C298.946142,10.6662437 301.334602,13.0545307 301.334602,15.9999448 C301.334602,18.945359 298.946197,21.333646 296.000662,21.333646 C293.055127,21.333646 290.667991,18.945359 290.667991,15.9999448 M287.78458,15.9999448 C287.78458,20.5375135 291.462912,24.2157227 296.000717,24.2157227 C300.538577,24.2157227 304.216854,20.5375135 304.216854,15.9999448 C304.216854,11.4623761 300.538522,7.78416701 296.000717,7.78416701 C291.462857,7.78416701 287.78458,11.4623761 287.78458,15.9999448 M302.621881,7.45848649 C302.621881,8.51828608 303.481409,9.37908014 304.542536,9.37908014 C305.602394,9.37908014 306.463192,8.51828608 306.463192,7.45848649 C306.463192,6.39874208 305.603719,5.53938249 304.542536,5.53938249 C303.481464,5.53927214 302.621881,6.39874208 302.621881,7.45848649 M289.535857,29.0234688 C287.975862,28.9523521 287.12792,28.6925469 286.564502,28.4729071 C285.81747,28.1820953 285.285002,27.8357253 284.724066,27.2761705 C284.164399,26.7164502 283.816814,26.1840401 283.527326,25.4370108 C283.30763,24.8735388 283.047824,24.0257653 282.976762,22.4657761 C282.8993,20.7792222 282.883687,20.2726326 282.883687,15.9999448 C282.883687,11.7272571 282.900459,11.2219364 282.976762,9.53405839 C283.047879,7.97423466 283.308954,7.12773015 283.527326,6.5628237 C283.818139,5.81584955 284.16451,5.28338425 284.724066,4.72245019 C285.283734,4.16284026 285.816201,3.81531162 286.564502,3.52576879 C287.127975,3.30612892 287.975862,3.04637899 289.535857,2.97520707 C291.222472,2.89774553 291.729118,2.88218702 296.000717,2.88218702 C300.273585,2.88218702 300.778908,2.89895932 302.466902,2.97520707 C304.026786,3.04632382 304.873459,3.30739788 305.438147,3.52576879 C306.185179,3.81531162 306.717701,4.1629506 307.278582,4.72245019 C307.838249,5.28217047 308.18462,5.81584955 308.475378,6.5628237 C308.695018,7.12635085 308.954824,7.97412432 309.025941,9.53405839 C309.103458,11.2220467 309.119017,11.7272571 309.119017,15.9999448 C309.119017,20.2713085 309.103569,20.7779533 309.025941,22.4657761 C308.954824,24.025655 308.693749,24.8735388 308.475378,25.4370108 C308.184565,26.1840401 307.838138,26.7164502 307.278582,27.2761705 C306.718915,27.8357804 306.185179,28.1821505 305.438147,28.4729071 C304.874618,28.6924366 304.026786,28.9522417 302.466902,29.0234688 C300.780232,29.1009855 300.273585,29.116544 296.000717,29.116544 C291.729118,29.1164337 291.222472,29.1009855 289.535857,29.0234688 M289.40394,0.0969924345 C287.700498,0.174509141 286.537302,0.444686588 285.520091,0.840104551 C284.468012,1.24848794 283.576264,1.79662209 282.685729,2.68566424 C281.796518,3.57481673 281.248547,4.46661747 280.840107,5.51990676 C280.444633,6.53705837 280.17451,7.70025034 280.096938,9.40357653 C280.018096,11.109551 280,11.6549265 280,16 C280,20.3450735 280.018096,20.890449 280.096993,22.5964235 C280.17451,24.2998048 280.444688,25.4629968 280.840163,26.4801484 C281.248603,27.5320584 281.795304,28.4252384 282.685784,29.3143909 C283.574995,30.2034331 284.466743,30.7501879 285.520146,31.1598954 C286.538571,31.5553686 287.700498,31.8254357 289.403995,31.9030627 C291.111355,31.9805794 291.655518,32 296.000662,32 C300.347185,32 300.891293,31.9819587 302.597384,31.9030627 C304.300827,31.825546 305.464023,31.5553686 306.481178,31.1598954 C307.533257,30.7501879 308.425061,30.2034331 309.31554,29.3143909 C310.204751,28.4252384 310.751508,27.5320584 311.161217,26.4801484 C311.556691,25.4629968 311.828083,24.2998048 311.904387,22.5964235 C311.981904,20.8892352 312,20.3450735 312,16 C312,11.6549265 311.981904,11.109551 311.904387,9.40352136 C311.826814,7.70019517 311.556691,6.53694802 311.161217,5.51985159 C310.751508,4.46788643 310.204751,3.57614085 309.31554,2.68560906 C308.426385,1.79656692 307.533257,1.24843277 306.482447,0.840049379 C305.464023,0.444631416 304.300827,0.173185013 302.598598,0.0969372625 C300.892562,0.0194205557 300.347075,0 296.001986,0 C291.655463,5.51720333e-05 291.111355,0.018151599 289.40394,0.0969924345"></path></g></g></g></g></g></g></svg>10:[["$","a","0",{"className":"w-[16px] h-[16px]","target":"_blank","href":"https://x.com/ioby","aria-label":"Twitter","dangerouslySetInnerHTML":{"__html":"$11"}}],["$","a","1",{"className":"w-[16px] h-[16px]","target":"_blank","href":"https://www.facebook.com/ioby.org/","aria-label":"Facebook","dangerouslySetInnerHTML":{"__html":"$12"}}],["$","a","2",{"className":"w-[16px] h-[16px]","target":"_blank","href":"https://www.instagram.com/inourbackyards/","aria-label":"Instagram","dangerouslySetInnerHTML":{"__html":"$13"}}]]
+16:I[95183,["231","static/chunks/231-44311d16d70518ea.js","4909","static/chunks/4909-568626adeb53e70c.js","2547","static/chunks/2547-2e102d05b3af461b.js","2706","static/chunks/2706-9aee3f5b07379665.js","4312","static/chunks/4312-25b9b93d63d1a8db.js","9277","static/chunks/9277-0f3d6e1c820b1b83.js","8130","static/chunks/8130-ea240c7b872a3183.js","5062","static/chunks/5062-b63c16498d732923.js","9926","static/chunks/app/(public)/project/%5Bslug%5D/loading-71c4a2aea4eceefb.js"],"default"]
+14:["slug","admin","d"]
+3:["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","(public)","children","project","children","$14","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]
+17:T1a82,<p><u>Amended Budget:</u></p>
+
+<p>Surface Pro w/ built in wifi (x 15 students, this may vary based on interest) $550 x 15 = $8,250</p>
+
+<p>Ring light kit (x 15 students) $88 x 5 = $1,320</p>
+
+<p>LED black lights (x 15 students) $18 * 15 = $270</p>
+
+<p>Paint and art supplies Approx $600</p>
+
+<p>Packaging and shipping materials Approx $300</p>
+
+<p>Instructions and printing of toolkit Approx $75</p>
+
+<p>Hiring of filmmaker and/or sound producer Approx $2,000</p>
+
+<p>Remaining dollars will be used for programming and our final exhibition and party in Fall 2020. </p>
+
+<p> </p>
+
+<p><u>Disbursed Budget:</u></p>
+
+<p>
+
+</p>
+
+<table>
+	<colgroup>
+		<col></col>
+		<col></col>
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>Item</td>
+			<td>Updated Amount</td>
+		</tr>
+		<tr>
+			<td>Gallery 1 (touch sensory)</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Fake fur (58" width) $15/yard x 40 yards $600.00</td>
+			<td>$ 513.00</td>
+		</tr>
+		<tr>
+			<td>Glue guns x 4 $20.00$80.00</td>
+			<td>$ 50.00</td>
+		</tr>
+		<tr>
+			<td>Glue sticks 100 pack $17 each $17.00</td>
+			<td>$ 40.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Wallpaper (olfactory)</td>
+			<td>$ 550.00</td>
+		</tr>
+		<tr>
+			<td>Tarps and cardboard</td>
+			<td>Donated</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Gallery 2 (visual sensory/neon room) Black LED lighting (16' length) $15/strip x 20 $300.00</td>
+			<td>$ 168.00</td>
+		</tr>
+		<tr>
+			<td>Speakers donated</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Wire donated</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Printing $500.00</td>
+			<td>$ 200.00</td>
+		</tr>
+		<tr>
+			<td>Chairs/bean bags donated</td>
+			<td>
+			<p>Building furniture, donations</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Gallery 3 TBD (sound/smell)Vinyl/printingWall sized (x4)$500.00Acrylic paintMulti large tube8 colors$350.00Brushes</td>
+			<td>$ 210.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Xacto, rulers, healing boards, blades, scissors, toolkits, glue, monofilament, cardboard, housepaint, brushes, staple guns, staples, pails, mops, broomsx 6 for individual use art supplies for fabrication, all others donated or borrowed, then purchased</td>
+			<td>Donations</td>
+		</tr>
+		<tr>
+			<td>$750.00</td>
+			<td>$ 250.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Program $350.00</td>
+			<td>Sponsorship</td>
+		</tr>
+		<tr>
+			<td>Posters/flyers printedBenchmarkApprox. 200 $300.00</td>
+			<td>$ 150.00</td>
+		</tr>
+		<tr>
+			<td>Cleaning supplies $120.00</td>
+			<td>$ 120.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td>--</td>
+		</tr>
+		<tr>
+			<td>Signage</td>
+			<td>$ 140.00</td>
+		</tr>
+		<tr>
+			<td>Vinyls $200.00</td>
+			<td>$ 100.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Employee hours student docent - Michigan Works donated ($1500)</td>
+			<td>$ 1,500.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Artist hours builder, professor, graphic designer, sound producer-partial donated hours</td>
+			<td>$ 2,000.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Manager hours (2) Yen and Nick-donating hours</td>
+			<td>$ 2,000.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Volunteer meal, gifts, and incidentals</td>
+			<td>$ 250.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Kick off party</td>
+			<td>$ 450.00</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Insurance (liability and building)</td>
+			<td>
+			<p>Chin-Azzaro donated</p>
+			</td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td>$ 8,691.00</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+
+</p>
+
+<table>
+	<colgroup>
+		<col></col>
+		<col></col>
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>TOTAL RAISED =</td>
+			<td>$9,578.00</td>
+		</tr>
+		<tr>
+			<td>ioby Platform Fee</td>
+			<td>$35.00</td>
+		</tr>
+		<tr>
+			<td>ioby Fiscal Sponsorship Fee (5%)</td>
+			<td>$478.90</td>
+		</tr>
+		<tr>
+			<td>ioby Donation Processing Fee (3%)</td>
+			<td>$287.34</td>
+		</tr>
+		<tr>
+			<td>TOTAL TO DISBURSE=</td>
+			<td>$8,776.76</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><u>Original Budget:</u></p>
+
+<p>Gallery 1 (touch sensory)<br />
+Fake fur (58" width) $15/yard x 40 yards $600.00<br />
+Glue guns x 4 $20.00$80.00<br />
+Glue sticks 100 pack $17 each $17.00<br />
+Foam board x 2: Elmer's at Blick pack of 25, 20 x 30" $150.00<br />
+<br />
+Corrugated cardboard donated<br />
+Tarps donated<br />
+Gallery 2 (visual sensory/neon room) Black LED lighting (16' length) $15/strip x 20 $300.00<br />
+Speakers donated<br />
+Wire donated<br />
+Printing $500.00<br />
+Chairs/bean bags donated<br />
+Gallery 3 TBD (sound/smell)Vinyl/printingWall sized (x4)$500.00Acrylic paintMulti large tube8 colors$350.00Brushes<br />
+4-6 sizes $150.00<br />
+Primer<br />
+Tub primerdonated<br />
+Xacto, rulers, healing boards, blades, scissors, toolkits, glue, monofilament, cardboard, housepaint, brushes, staple guns, staples, pails, mops, broomsx 6 for individual use art supplies for fabrication, all others donated or borrowed, then purchased<br />
+$750.00<br />
+<br />
+Program $350.00<br />
+Posters/flyers printedBenchmarkApprox. 200 $300.00<br />
+Cleaning supplies $120.00<br />
+Security (locks/keys) $75.00<br />
+Docent toolkit $400.00<br />
+Signage $500.00<br />
+Vinyls $200.00</p>
+
+<p>Employee hours (2) Students, docents<br />
+$4,800.00<br />
+Artist hours (2) Builders, artists, consultants<br />
+$4,500.00<br />
+Manager hours (2) Yen and Nick<br />
+$4,500.00<br />
+<br />
+Volunteer meal, gifts, and incidentals<br />
+$1,500.00<br />
+Kick off partyCatering<br />
+$3,500.00<br />
+Graphic design<br />
+$1,500.00<br />
+Snacks for kids<br />
+$200.00<br />
+Pop up license<br />
+$2,250.00<br />
+Insurance<br />
+$900.00<br />
+Transportation<br />
+$300.00</p>
+
+<p>
+
+</p>
+
+<table>
+	<colgroup>
+		<col></col>
+		<col></col>
+	</colgroup>
+	<tbody>
+		<tr>
+			<td>PROJECT FUNDING NEEDED =</td>
+			<td>$30,000</td>
+		</tr>
+		<tr>
+			<td>ioby Platform Fee</td>
+			<td>$35</td>
+		</tr>
+		<tr>
+			<td>ioby Fiscal Sponsorship Fee (5%)</td>
+			<td>$1,632</td>
+		</tr>
+		<tr>
+			<td>ioby Donation Processing Fee (3%)</td>
+			<td>$979</td>
+		</tr>
+		<tr>
+			<td>TOTAL TO RAISE =</td>
+			<td>$32,647</td>
+		</tr>
+	</tbody>
+</table>
+
+18:T1948,<p>March 30, 2020 Update and latest article about our new direction: <a href="https://www.mlive.com/news/ann-arbor/2020/04/museum-cancels-opening-uses-funds-to-support-student-creativity-at-home.html">https://www.mlive.com/news/ann-arbor/2020/04/museum-cancels-opening-uses-funds-to-support-student-creativity-at-home.html</a></p>
+
+<p>Dear Friends and Supporters,</p>
+
+<p>It's been a difficult few weeks. The last time we saw the <a href="http://www.ypsifidelity.com/">Y-Fi</a> students was Wednesday, March 11th. During that session, we talked about the possibility of school closure and what our (creative) world would look like—the museum being delayed, our gatherings put on hold,  exhibition-building coming to a standstill. Today, there are many unknowns but this is what we do know.</p>
+
+<p>With the announcement of Governor Whitmer's statewide lockdown continuing, our timeline for building out ADMIN Micro Museum gets pushed back further and further. We know Ypsilanti Community Schools (much like the rest of the country's public school districts) is looking for innovative ways to administer learning and supply technology equitably to students.</p>
+
+<p>We recognize that education comes first and would never infringe upon the learning that needs to be prioritized should we return to school this academic year. Because of this, we are planning measures to ensure the spirit of Y-Fi and the integrity of our grant with Ann Arbor Area Community Foundation and our crowdfund through ioby.com are carried out. </p>
+
+<p>In total, the <a href="https://ioby.org/project/admin">ioby crowdfund</a> raised an incredible $9,578. (With credit card and fiduciary processing fees, our efforts were awarded $8,776.76). These dollars and the existing Ann Arbor Area Community Foundation grant that initially made Y-Fi possible, will now be utilized in an exciting, remote fashion that will fund materials and experiences for our students beyond this current situation. </p>
+
+<p>*Thank you* to everyone that gave of their physical, financial, emotional and cultural support.</p>
+
+<p>Going forward, we have a plan to highlight and continue engaging with each student remotely. In the spirit of last year's performances, each Y-Fi student will produce a series of videos, sound, photo and/or written content to be distributed digitally. With the resources we send them (more on that below) and abilities they have learned in Nick's photography class or during Bright Futures, our students have the capability to script and present art pieces in various forms including performance art, singing/music, spoken word/rap, etc. With designated hashtags, we have the ability to follow and push out each student's work through livestreaming on our main Facebook, Instagram sites and <a href="http://ypsifidelity.com/">ypsifidelity.com</a>.</p>
+
+<p>Because of the varying degrees of technology access and wireless internet connectivity for each Y-Fi student, we are committed to ensuring each student has a standardized toolkit to continue producing art work at home. Students will receive: </p>
+
+<p>• An iPad with keyboard/cover</p>
+
+<p>• Neon pink fur to use as backdrop</p>
+
+<p>• Ring light with stand (so that your projects are all professionally lit)</p>
+
+<p>• Art supplies</p>
+
+<p>• LED black light</p>
+
+<p>• Full instructions</p>
+
+<p>• Amazon gift card as payment upon completion of projects (amount TBD based on # of participants)</p>
+
+<p>Y-Fi will live on in each student's home and we expect the talent and richness of storytelling will impress you. Thank you, again, for being a part of this journey. It means the world to us. Stay healthy, safe, and well. We'll see you again soon. </p>
+
+<p>Warmly,<br />
+Yen and Nick Azzaro<br />
+Y-Fi co-producers</p>
+
+<p>***</p>
+
+<p>In 2019, a social art movement called Y-Fi (short for Ypsi Fidelity) comprised of a group of Ypsilanti Community High School students, produced a series of performance interruptions in public spaces and documented these moments through photography. The student artists took "loud" imagery in the quiet second floor stacks of Ypsilanti District Library, played a new version of Red Rover, Red Rover, and invited the public to mimic each other at Ann Arbor Summer Festival. During the course of a year, Y-Fi connected with the public through outward-facing acts, but more importantly, the students created an unexpected family within the invisible confines of collaboration and performance. You can see Y-Fi projects at www.ypsifidelity.com</p>
+
+<p>In 2020, Y-Fi will plan the concept for and build ADMIN, a micro museum filled with multi-sensory art experiences in the former administrative wing of Willow Run High School in Ypsilanti, Michigan. A series of classrooms will be transformed into galleries where students and families can touch, hear, and see exciting and unexpected forms of art built completely by the students with the guidance of professional museum preparators, artists, and builders. There will also be an office, storage room, accessible restrooms, and a workroom for producing these works. The attendance to the museum is free. </p>
+
+<p>Imagine turning the doorknob to a classroom door and stepping in. Inside you find yourself in a black-lit cave full of neon stalactites hanging from the ceiling and stalagmites jutting up from the ground. The neon quality of the light highlights any white or bright clothing you're wearing and you touch a gem-like form made of corrugated cardboard, painted fluorescent green. Visitors have the opportunity to take in this spectacle and others like it or be a part of building more attachments to the cave. A separate workshop area with supplies and instructions are available to each visitor. As new pieces are added to the cave, the path within the gallery gets smaller and more twisted, an ever-changing exhibit and documentation of the community's activity. </p>
+
+<p>Y-Fi and its programming, transportation, guest speakers, productions, and field trips are made possible by Ann Arbor Area Community Foundation and in partnership with Eastern Michigan University Bright Futures. This ioby campaign makes the build out portion of ADMIN, its marketing, logistics, consulting artists and builders, possible. This project is overseen by Y-Fi co-founders and recipients of the AAACF In Our Neighborhood grant, husband and wife artist, Nick and Yen Azzaro. </p>
+19:Tb24,<p>Ypsilanti, Michigan is a town of approximately 21,000 residents. Ypsilanti Community Schools (YCS) is the public school district serving the area and the result of the consolidation of the former Ypsilanti Public Schools and its neighboring district Willow Run Schools. Like many communities, Ypsilanti does not have many options where students can socialize without spending money or linger in a space without a pre-scheduled event occurring. (The Ypsilanti District Library is a vital and thriving space for our students and we need more like it!) The summer months can be filled with long, languid days and our youth need something to do. </p>
+
+<p>The Y-Fi students created the mission of the museum. ADMIN gives youth the opportunity to get out of the house to express themselves by creating hands-on experiences, uniting the community, and contributing how ever each person can. </p>
+
+<p>ADMIN will give Ypsilanti youth and families three ways to engage in a free, high-caliber institution. </p>
+
+<p>First, our Y-Fi student artists will become the builders, founders, and stewards of ADMIN. They will be able to share the story of creating the space because the concepts and building of exhibitions originated from them.</p>
+
+<p>Second, youth and adults will have a space to relish in unexpected experienes unlike traditional art museums in the area. It will be partially spectacle and partially play based in their community, built by their community youth. Visitors may choose to take a docent-led tour or take a a self-led route. </p>
+
+<p>Third, families and others will be able to participate not only as visitors in the space, but artists as they take to the work room and add to the spectacle of the displays.</p>
+
+<p>Starting in January 2020, Y-Fi students will continue to meet weekly at Ypsilanti Community High School and break into groups to work on their assigned projects. Roles will include designers and fabricators as they create concepts, draw out the plans, and work with professionals to assemble the exhibition pieces in a mock gallery set up within the school. Simultaneously, a series of volunteer clean up days will be scheduled to clear out the classrooms to create space for exhibits and a build out a studio workroom where students and visitors will participate. Eastern Michigan University Art Education professor, Dr. Cam McComb will oversee her Curriculum and Assessment in Visual Art Education students will develop content for instructional cards to accompany each visitor's experience. In April, the exhibitions will start to be installed in each gallery. ADMIN will be ready to serve the public in mid June with a ribbon cutting and kick off party. The YFi students will be present to open ADMIN as the founding members of Ypsilanti's first experiential art museum. </p>
+
+<p> </p>
+1a:T87c,<p><strong>January and February 2020</strong><br />
+• Continued weekly meetings with Y-Fi students planning and building out exhibits at Ypsilanti Community High School<br />
+• Community meetings for feedback, committee meetings for planning<br />
+• Cleaning of spaces (up to 4 classrooms, up to 2 offices, 1 workroom, 2 bathrooms to maintain)<br />
+• Touring space with prospective sponsors, neighbors, stakeholders<br />
+• Building out exhibits <br />
+• Move out classroom materials<br />
+• Social media campaigns<br />
+• Marketing materials designed<br />
+• Business and sponsorship invitations</p>
+
+<p><strong>March and April 2020</strong><br />
+• Continued weekly meetings with Y-Fi students planning and building out exhibits at Ypsilanti Community High School<br />
+• Committee meetings for planning<br />
+• Create/choose ticketing system<br />
+• Build out of exhibition spaces<br />
+• Insurance, liability, licensing procedures<br />
+• Replace fixtures<br />
+• Distribute marketing materials<br />
+• Design signage and print materials<br />
+• Artist and builder with YFi workshops on site<br />
+• Order supplies<br />
+• Build out Gallery 1 and Gallery 2<br />
+• Clean out and set up office(s)</p>
+
+<p><strong>May 2020</strong><br />
+• Continue build out of museum galleries<br />
+• Test ticketing system<br />
+• Train and tour docents (student volunteers and employees)<br />
+• YFi museum orientation <br />
+• Send out press releases<br />
+• Marketing plan implemented (social media, print, face-to-face)<br />
+• Install exterior signage and interior vinyls<br />
+• Partner tours and meetings<br />
+• Artist and builder with YFi workshops on site<br />
+• Build out Gallery 3 (and Gallery 4)</p>
+
+<p><strong>June 2020</strong><br />
+• Confirm opening event vendors<br />
+• YFi end of school year party<br />
+• Final clean up and dumpster clean out<br />
+• Workroom set up and clean up<br />
+• Install collateral fixtures<br />
+• Set up outdoor spaces (parking for food trucks and check in area), finalize offices and indoor check in areas</p>
+2:["$L15",["$","main",null,{"id":"$undefined","className":"mx-auto px-6 pb-16 mt-8 mb-16 max-w-screen-xl","role":"$undefined","children":["$","div",null,{"className":"lg:grid grid-cols-6","children":[["$","div",null,{"className":"col-span-4 lg:pr-8","children":[["$","div",null,{"className":"gap-y-8 flex flex-col mb-8","children":[["$","div",null,{"className":"flex flex-col gap-y-4","children":[["$","div",null,{"className":"flex flex-col gap-y-4","children":[["$","iframe",null,{"allowFullScreen":true,"height":"420","src":"https://www.youtube.com/embed/EPy4YutFb_E","width":"100%"}],["$","div",null,{"className":"","children":["$","$Lf",null,{"href":"/project/admin/photos","scroll":false,"replace":true,"className":"bg-white inline-flex gap-x-2 ring-1 ring-inset ring-gray-400 px-4 py-2 hover:bg-gray-200 items-center rounded","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","aria-labelledby":"$undefined","className":"w-4 h-4","children":[null,["$","path",null,{"fillRule":"evenodd","d":"M3 6a3 3 0 013-3h2.25a3 3 0 013 3v2.25a3 3 0 01-3 3H6a3 3 0 01-3-3V6zm9.75 0a3 3 0 013-3H18a3 3 0 013 3v2.25a3 3 0 01-3 3h-2.25a3 3 0 01-3-3V6zM3 15.75a3 3 0 013-3h2.25a3 3 0 013 3V18a3 3 0 01-3 3H6a3 3 0 01-3-3v-2.25zm9.75 0a3 3 0 013-3H18a3 3 0 013 3V18a3 3 0 01-3 3h-2.25a3 3 0 01-3-3v-2.25z","clipRule":"evenodd"}]]}],["$","span",null,{"children":"View photos"}]]}]}]]}],["$","h1",null,{"id":"$undefined","className":"font-barlow text-3xl md:text-4xl font-bold","children":"ADMIN "}],["$","span",null,{"dangerouslySetInnerHTML":{"__html":"<p>Micro Museum of Experiential&nbsp;Art | Built by Ypsilanti Community High School students</p>\n"},"className":"text-lg font-lato max-w-screen-sm"}]]}],["$","div",null,{"className":"max-w-[375px] flex flex-col gap-y-2","children":[["$","span",null,{"className":"grid grid-cols-12 gap-x-4","children":[["$","span",null,{"className":"col-span-1","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","aria-labelledby":"$undefined","className":"w-6 h-6 text-i-blue","children":[null,["$","path",null,{"fillRule":"evenodd","d":"M18.685 19.097A9.723 9.723 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12a9.723 9.723 0 003.065 7.097A9.716 9.716 0 0012 21.75a9.716 9.716 0 006.685-2.653zm-12.54-1.285A7.486 7.486 0 0112 15a7.486 7.486 0 015.855 2.812A8.224 8.224 0 0112 20.25a8.224 8.224 0 01-5.855-2.438zM15.75 9a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z","clipRule":"evenodd"}]]}]}],["$","span",null,{"className":"col-span-3 border-r","children":["$","p",null,{"className":"font-bold text-i-blue font-lato","children":"Leader"}]}],["$","span",null,{"className":"col-span-8","children":["$","p",null,{"className":"font-lato","children":"Yen Azzaro"}]}]]}],["$","span",null,{"className":"grid grid-cols-12 gap-x-4","children":[["$","span",null,{"className":"col-span-1","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","aria-labelledby":"$undefined","className":"w-6 h-6 text-i-blue","children":[null,["$","path",null,{"fillRule":"evenodd","d":"M11.54 22.351l.07.04.028.016a.76.76 0 00.723 0l.028-.015.071-.041a16.975 16.975 0 001.144-.742 19.58 19.58 0 002.683-2.282c1.944-1.99 3.963-4.98 3.963-8.827a8.25 8.25 0 00-16.5 0c0 3.846 2.02 6.837 3.963 8.827a19.58 19.58 0 002.682 2.282 16.975 16.975 0 001.145.742zM12 13.5a3 3 0 100-6 3 3 0 000 6z","clipRule":"evenodd"}]]}]}],["$","span",null,{"className":"col-span-3 border-r","children":["$","p",null,{"className":"font-bold text-i-blue font-lato","children":"Location"}]}],["$","span",null,{"className":"col-span-8","children":["$","p",null,{"className":"font-lato","children":"235 Spencer Ln Ypsilanti, MI 48197"}]}]]}],false]}]]}],["$","$L16",null,{"project":{"additional_description":"","brief_description":"<p>Micro Museum of Experiential Art | Built by Ypsilanti Community High School students</p>\r\n","budget_amount":9578,"budget_description":"$17","budget_items":null,"final_budget_items":null,"completion_date":null,"deadline":"2020-03-14","description":"$18","end_date":"2020-09-06","giving_levels":[{"amount":20,"description":"$$20 contributes to a 25-sheet package of foam board to build out fluorescent green stalactites from the ceiling and stalagmites from the ground "},{"amount":50,"description":"$$50 helps us to line the entire surface of a classroom in fluorescent pink fake fur for a full touch sensory experience"},{"amount":100,"description":"$$100 feeds our student docents and volunteers after a long day of building and installation "},{"amount":150,"description":"$$150 replenishes a full palette of bulk fluorescent paint for the community workshop"},{"amount":250,"description":"$$250 helps us to purchase a long string of LED black lights to create dazzling effects"},{"amount":20,"description":"$$20 contributes to a 25-sheet package of foam board to build out fluorescent green stalactites from the ceiling and stalagmites from the ground "},{"amount":50,"description":"$$50 helps us to line the entire surface of a classroom in fluorescent pink fake fur for a full touch sensory experience"},{"amount":100,"description":"$$100 feeds our student docents and volunteers after a long day of building and installation "},{"amount":150,"description":"$$150 replenishes a full palette of bulk fluorescent paint for the community workshop"},{"amount":250,"description":"$$250 helps us to purchase a long string of LED black lights to create dazzling effects"},{"amount":20,"description":"$$20 contributes to a 25-sheet package of foam board to build out fluorescent green stalactites from the ceiling and stalagmites from the ground "},{"amount":50,"description":"$$50 helps us to line the entire surface of a classroom in fluorescent pink fake fur for a full touch sensory experience"},{"amount":100,"description":"$$100 feeds our student docents and volunteers after a long day of building and installation "},{"amount":150,"description":"$$150 replenishes a full palette of bulk fluorescent paint for the community workshop"},{"amount":250,"description":"$$250 helps us to purchase a long string of LED black lights to create dazzling effects"},{"amount":20,"description":"$$20 contributes to a 25-sheet package of foam board to build out fluorescent green stalactites from the ceiling and stalagmites from the ground "},{"amount":50,"description":"$$50 helps us to line the entire surface of a classroom in fluorescent pink fake fur for a full touch sensory experience"},{"amount":100,"description":"$$100 feeds our student docents and volunteers after a long day of building and installation "},{"amount":150,"description":"$$150 replenishes a full palette of bulk fluorescent paint for the community workshop"},{"amount":250,"description":"$$250 helps us to purchase a long string of LED black lights to create dazzling effects"},{"amount":20,"description":"$$20 contributes to a 25-sheet package of foam board to build out fluorescent green stalactites from the ceiling and stalagmites from the ground "},{"amount":50,"description":"$$50 helps us to line the entire surface of a classroom in fluorescent pink fake fur for a full touch sensory experience"},{"amount":100,"description":"$$100 feeds our student docents and volunteers after a long day of building and installation "},{"amount":150,"description":"$$150 replenishes a full palette of bulk fluorescent paint for the community workshop"},{"amount":250,"description":"$$250 helps us to purchase a long string of LED black lights to create dazzling effects"}],"id":3732,"ioby_is_fiscal_sponsor":true,"is_accepting_volunteers":true,"is_accepting_donations":false,"issue_description":"$19","leader_display_name":"Yen Azzaro","name":"ADMIN ","neighborhood":"Willow Run, Ypsilanti","published_at":"2019-12-12T00:00:00","results_description":"","slug":"admin","start_date":"2020-06-12","status":"underway","steps_description":"$1a","summary":"","video_url":"https://www.youtube.com/watch?v=EPy4YutFb_E","volunteer_reason":"<p>Thank you for your interest in ADMIN! As our planning gets underway, we&#39;ll be in touch and offer up opportunities for community meetings, workshops and docent trainings. There will be opportunities to work with students, help with fabricating the parts of the exhibits and installation, painting, leading tours, and more.&nbsp;</p>\r\n\r\n<p>If you have any questions, please contact info@ypsifidelity.com and we&#39;ll be in touch as soon as we can.&nbsp;</p>\r\n\r\n<p>Thank you,&nbsp;<br />\r\nYen and Nick Azzaro, Y-Fi co-founders</p>\r\n","file":[{"id":20148,"bucket":"ioby-api-assets","uri":"YFi art movement 02.jpg","size":412.506,"filename":"YFi art movement 02.jpg","order":null},{"id":20231,"bucket":"ioby-api-assets","uri":"YFi Willow Run entryway before-01.png","size":916.743,"filename":"YFi Willow Run entryway before-01.png","order":null},{"id":20232,"bucket":"ioby-api-assets","uri":"YFi Museum entry-01.png","size":1095.932,"filename":"YFi Museum entry-01.png","order":null},{"id":20233,"bucket":"ioby-api-assets","uri":"YFi Willow Run gallery 1 before-01.png","size":935.604,"filename":"YFi Willow Run gallery 1 before-01.png","order":null},{"id":20234,"bucket":"ioby-api-assets","uri":"YFi Willow Run gallery 2 before-01.png","size":922.974,"filename":"YFi Willow Run gallery 2 before-01.png","order":null}],"tag":[],"location":[{"id":8691,"street":"235 Spencer Ln","street_2":null,"city":"Ypsilanti","state":"MI","country":"us","zip":"48197"}],"donation":[{"id":48848,"amount":50,"donor_display_name":"Wing, Roger","date":"2020-02-21T18:43:35"},{"id":47157,"amount":25,"donor_display_name":"Candace Kuen","date":"2019-12-17T03:03:46"},{"id":48713,"amount":100,"donor_display_name":"Miles Ziskind","date":"2020-02-17T17:30:39"},{"id":47337,"amount":100,"donor_display_name":"Barb and Tom Moors","date":"2019-12-23T21:51:18"},{"id":49148,"amount":250,"donor_display_name":"Bill","date":"2020-02-29T20:17:42"},{"id":48321,"amount":150,"donor_display_name":"Miles A","date":"2020-02-04T18:46:29"},{"id":48569,"amount":25,"donor_display_name":"June And Art Azzaro","date":"2020-02-12T11:54:23"},{"id":47100,"amount":100,"donor_display_name":"Kallie Brown","date":"2019-12-13T20:38:15"},{"id":47257,"amount":100,"donor_display_name":"Carolyn & Phil Schrodel","date":"2019-12-20T20:13:42"},{"id":48725,"amount":25,"donor_display_name":"Kyla and Julian ","date":"2020-02-17T23:37:28"},{"id":48355,"amount":50,"donor_display_name":"Caleb A Getto","date":"2020-02-05T20:14:20"},{"id":48246,"amount":150,"donor_display_name":"Decky Alexander","date":"2020-02-01T15:28:47"},{"id":47687,"amount":50,"donor_display_name":"Kate M","date":"2020-01-05T06:46:33"},{"id":48507,"amount":100,"donor_display_name":"Erin E. Bonar","date":"2020-02-10T01:41:01"},{"id":49619,"amount":750,"donor_display_name":"Tory Franklin","date":"2020-03-12T20:36:50"},{"id":47162,"amount":75,"donor_display_name":"Alma Sheppard-Matsuo","date":"2019-12-17T15:04:46"},{"id":47891,"amount":50,"donor_display_name":"April Beresford","date":"2020-01-17T02:21:37"},{"id":47195,"amount":35,"donor_display_name":"Ange","date":"2019-12-18T19:40:16"},{"id":48375,"amount":150,"donor_display_name":"Ingrid M Ankerson","date":"2020-02-06T16:05:04"},{"id":47158,"amount":100,"donor_display_name":"Rich","date":"2019-12-17T03:08:58"},{"id":48258,"amount":50,"donor_display_name":"Jill C.","date":"2020-02-02T04:19:44"},{"id":47152,"amount":100,"donor_display_name":"Jeri Rosenberg","date":"2019-12-16T21:52:17"},{"id":47849,"amount":50,"donor_display_name":"Jessica A.S. Letaw","date":"2020-01-15T01:32:23"},{"id":48719,"amount":100,"donor_display_name":"Nithya V","date":"2020-02-17T20:26:59"},{"id":48350,"amount":50,"donor_display_name":"The Listen Inn","date":"2020-02-05T16:26:05"},{"id":47133,"amount":100,"donor_display_name":"Anonymous","date":"2019-12-16T13:18:26"},{"id":48346,"amount":50,"donor_display_name":"Anonymous","date":"2020-02-05T12:39:34"},{"id":48720,"amount":100,"donor_display_name":"bruce p","date":"2020-02-17T20:36:00"},{"id":47405,"amount":200,"donor_display_name":"Lynn M.","date":"2019-12-27T22:35:29"},{"id":48480,"amount":54,"donor_display_name":"Anonymous","date":"2020-02-08T01:48:09"},{"id":49000,"amount":100,"donor_display_name":"Pusa Soh","date":"2020-02-26T18:44:15"},{"id":47888,"amount":50,"donor_display_name":"Jane Kim","date":"2020-01-16T22:21:15"},{"id":47220,"amount":40,"donor_display_name":"Margaret M. Smith","date":"2019-12-19T16:39:25"},{"id":49199,"amount":100,"donor_display_name":"STUART HANLON","date":"2020-03-02T13:01:42"},{"id":47134,"amount":50,"donor_display_name":"Kris Goldy","date":"2019-12-16T13:48:05"},{"id":49147,"amount":100,"donor_display_name":"Kit Smyth Basquin","date":"2020-02-29T20:02:32"},{"id":49149,"amount":50,"donor_display_name":"D. Evans","date":"2020-02-29T20:34:28"},{"id":49396,"amount":25,"donor_display_name":"Praveena","date":"2020-03-05T23:11:08"},{"id":48345,"amount":30,"donor_display_name":"Katie","date":"2020-02-05T12:33:27"},{"id":47135,"amount":100,"donor_display_name":"Chaz.","date":"2019-12-16T14:52:57"},{"id":49164,"amount":50,"donor_display_name":"Rebecca Dunkle","date":"2020-03-01T02:08:01"},{"id":47365,"amount":50,"donor_display_name":"Laura S.","date":"2019-12-26T14:31:46"},{"id":49146,"amount":20,"donor_display_name":"Scott, Nikki & Nash","date":"2020-02-29T19:52:48"},{"id":47594,"amount":25,"donor_display_name":"Sophie Grillet ","date":"2019-12-31T21:17:33"},{"id":47185,"amount":50,"donor_display_name":"Flutter & Wow Museum Projects","date":"2019-12-18T14:33:31"},{"id":47345,"amount":50,"donor_display_name":"Mintporch cafe","date":"2019-12-24T13:33:55"},{"id":47218,"amount":100,"donor_display_name":"Steven R Pierce","date":"2019-12-19T16:29:08"},{"id":47156,"amount":100,"donor_display_name":"Courtney","date":"2019-12-17T01:46:34"},{"id":47206,"amount":100,"donor_display_name":"Natasha P.","date":"2019-12-19T12:52:08"},{"id":47830,"amount":50,"donor_display_name":"Tasha Pohrt","date":"2020-01-14T17:33:16"},{"id":47302,"amount":50,"donor_display_name":"Christine Bruxvoort","date":"2019-12-22T04:14:49"},{"id":48162,"amount":10,"donor_display_name":"Rebecca Gallahue","date":"2020-01-29T18:50:35"},{"id":48529,"amount":200,"donor_display_name":"Bangseh Akuchu","date":"2020-02-10T20:14:33"}],"match":[{"id":20603,"amount":100,"date":"2019-12-13T20:36:48"},{"id":20658,"amount":50,"date":"2019-12-18T14:32:14"},{"id":20781,"amount":100,"date":"2019-12-23T21:49:19"},{"id":21057,"amount":50,"date":"2020-01-05T06:44:25"},{"id":21579,"amount":50,"date":"2020-02-05T16:24:35"},{"id":21885,"amount":25,"date":"2020-02-17T23:34:51"},{"id":22288,"amount":100,"date":"2020-02-29T19:50:24"},{"id":22336,"amount":100,"date":"2020-03-02T12:58:35"},{"id":20637,"amount":100,"date":"2019-12-16T21:50:49"},{"id":20668,"amount":35,"date":"2019-12-18T19:39:00"},{"id":21200,"amount":50,"date":"2020-01-15T01:30:54"},{"id":21550,"amount":150,"date":"2020-02-04T18:43:04"},{"id":21572,"amount":30,"date":"2020-02-05T12:30:56"},{"id":21583,"amount":50,"date":"2020-02-05T20:11:56"},{"id":21602,"amount":150,"date":"2020-02-06T16:04:10"},{"id":21878,"amount":100,"date":"2020-02-17T20:26:04"},{"id":22291,"amount":50,"date":"2020-02-29T20:30:36"},{"id":20728,"amount":100,"date":"2019-12-20T20:08:24"},{"id":21738,"amount":200,"date":"2020-02-10T20:13:12"},{"id":22289,"amount":20,"date":"2020-02-29T19:50:56"},{"id":20623,"amount":100,"date":"2019-12-16T13:16:17"},{"id":20684,"amount":100,"date":"2019-12-19T16:27:54"},{"id":20805,"amount":50,"date":"2019-12-26T14:26:31"},{"id":21507,"amount":50,"date":"2020-02-02T04:11:08"},{"id":21769,"amount":25,"date":"2020-02-12T11:50:28"},{"id":22010,"amount":50,"date":"2020-02-21T18:40:53"},{"id":22534,"amount":25,"date":"2020-03-05T23:04:12"},{"id":20755,"amount":50,"date":"2019-12-22T04:12:28"},{"id":20986,"amount":25,"date":"2019-12-31T21:07:59"},{"id":21230,"amount":50,"date":"2020-01-17T02:18:29"},{"id":21872,"amount":100,"date":"2020-02-17T17:25:07"},{"id":22164,"amount":100,"date":"2020-02-26T18:42:09"},{"id":20641,"amount":100,"date":"2019-12-17T01:43:08"},{"id":20643,"amount":100,"date":"2019-12-17T03:08:01"},{"id":20676,"amount":100,"date":"2019-12-19T12:32:42"},{"id":20836,"amount":200,"date":"2019-12-27T22:32:30"},{"id":21498,"amount":150,"date":"2020-02-01T15:27:33"},{"id":21713,"amount":100,"date":"2020-02-10T01:39:36"},{"id":22290,"amount":250,"date":"2020-02-29T20:12:30"},{"id":20625,"amount":100,"date":"2019-12-16T14:51:29"},{"id":20642,"amount":25,"date":"2019-12-17T03:01:40"},{"id":20645,"amount":75,"date":"2019-12-17T15:01:53"},{"id":20685,"amount":40,"date":"2019-12-19T16:35:54"},{"id":21698,"amount":54,"date":"2020-02-08T01:46:52"},{"id":21882,"amount":100,"date":"2020-02-17T20:34:20"},{"id":22304,"amount":50,"date":"2020-03-01T02:00:09"},{"id":22794,"amount":750,"date":"2020-03-12T20:34:23"},{"id":20624,"amount":50,"date":"2019-12-16T13:43:58"},{"id":20789,"amount":50,"date":"2019-12-24T13:30:03"},{"id":21183,"amount":50,"date":"2020-01-14T17:31:17"},{"id":21229,"amount":50,"date":"2020-01-16T22:18:35"},{"id":21429,"amount":10,"date":"2020-01-29T18:49:30"},{"id":21573,"amount":50,"date":"2020-02-05T12:37:38"}]}}]]}],["$","div",null,{"className":"col-span-2 lg:block ","children":["$","div",null,{"className":"fixed lg:sticky lg:top-[25px] bg-white bottom-0 left-0 right-0","children":["$","div",null,{"className":"bg-i-beige/50 flex flex-col gap-y-6 shadow-[0px_0px_10px_rgba(0,0,0,0.1)] md:shadow","children":[["$","div",null,{"className":"mx-6 pt-4 flex flex-col gap-0 lg:gap-4","children":[["$","div",null,{"className":"lg:border-b border-gray-300 pb-4 flex flex-col gap-4","children":[["$","div",null,{"className":"hidden lg:block","children":[["$","p",null,{"className":"font-semibold font-lato text-lg lg:text-xl","children":"$$9,578.00"}],["$","p",null,{"className":"text-gray-500 text-base font-lato","children":"Raised"}]]}],["$","div",null,{"children":["$","div",null,{"children":[["$","div",null,{"className":"bg-white h-[14px] lg:h-[20px] relative overflow-hidden w-full","style":{"height":"$undefined","backgroundColor":"$undefined","borderRadius":"$undefined"},"children":["$","div",null,{"className":"h-full absolute left-0 top-0 bg-[#9bc95b]","style":{"width":"100%"}}]}],["$","div",null,{"id":"$undefined","className":"flex flex-row justify-between pt-1","role":"$undefined","children":["$undefined",["$","p",null,{"className":"text-right font-lato","children":[["$","span",null,{"className":"font-semibold font-barlow","children":["$$9,578.00"," /"," "]}],false,["$","span",null,{"className":"text-gray-500 font-barlow","children":"$$9,578.00"}]]}]]}]]}]}]]}],["$","div",null,{"className":"flex flex-col gap-y-2 grow pb-4 lg:pb-0","children":[false,["$","p",null,{"className":"text-center text-gray-500 font-lato hidden lg:block","children":["Ended"," ","March 13th, 2020"]}]]}]]}],["$","div",null,{"className":"hidden lg:flex flex-col gap-y-3 px-6 pt-4 pb-4 border-t border-gray-300","children":["$","$L4",null,{"title":"ADMIN ","text":"<p>Micro Museum of Experiential Art | Built by Ypsilanti Community High School students</p>\r\n","url":"https://ioby.org/project/admin"}]}]]}]}]}]]}]}]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"ADMIN  - ioby"}],["$","meta","3",{"name":"description","content":"Micro Museum of Experiential Art | Built by Ypsilanti Community High School students\n"}],["$","meta","4",{"property":"og:title","content":"ADMIN "}],["$","meta","5",{"property":"og:description","content":"Micro Museum of Experiential Art | Built by Ypsilanti Community High School students\n"}],["$","meta","6",{"property":"og:url","content":"https://ioby.org/project/admin/"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://ioby-api-assets.nyc3.cdn.digitaloceanspaces.com/YFi%20art%20movement%2002.jpg"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"ADMIN "}],["$","meta","12",{"name":"twitter:description","content":"Micro Museum of Experiential Art | Built by Ypsilanti Community High School students\n"}],["$","meta","13",{"name":"twitter:image","content":"https://ioby-api-assets.nyc3.cdn.digitaloceanspaces.com/YFi%20art%20movement%2002.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null
+15:["$","div",null,{"className":"text-center gap-x-6 bg-gradient-to-r from-[#6666A7] to-80% to-[#0D77AB] px-6 py-2.5 sm:px-3.5 sm:before:flex-1","children":["$","p",null,{"className":"text-sm leading-6 text-white","children":["$","$Lf",null,{"href":"/match/artistslead","target":"_blank","children":["This project was eligible for matching funds through"," ",["$","u",null,{"children":"Artists Lead!"}]]}]}]}]
